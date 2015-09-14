@@ -1,0 +1,17 @@
+GIT
+  remote: git@github.com:marinalimeira/moltres.git
+  revision: 4837d1dee75506ff7bee04784a19ec5457039d98
+  specs:
+    moltres (0.1.0)
+      rack
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (1.6.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  moltres!
