@@ -1,8 +1,8 @@
 GIT
   remote: git@github.com:marinalimeira/moltres.git
-  revision: 4837d1dee75506ff7bee04784a19ec5457039d98
+  revision: 197fdcd8ac25aaa7f2c6498ba377e415e11d665c
   specs:
-    moltres (0.1.0)
+    moltres (0.2.0)
       rack
 
 GEM
